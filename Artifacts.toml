@@ -1,0 +1,180 @@
+[[HHsuite]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a4f6f2e9d68220f88d87317c5e4d58a0766679e7"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "b3375f448c9276b249f2c5dc6cb45c44785b02dceec3103c32d3666f3261936a"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[HHsuite]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98cf74a5f1ac17f2c68925e7116a753e4347a639"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "124f996efabfe28ccc496c489542e05ccc543e965a6c44404798cfd74d053e0a"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[HHsuite]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68b8f3c11a4ea7fb8e835699969d3dcd9d387394"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "29255b0180f8dc66dac8fede3abbd559f8cf6694362b7fe7f24c1b3f165b2d60"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[HHsuite]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bfc6a8b14e16036f34e5c26f52bb75ea1c756fa5"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "e95207f6637b20b7192ca4fccfabe599a570d392310423bbea568edd84047016"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[HHsuite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1c3435843c846e5c80809a3d58bd3f8a8633da89"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "a0e35f1fcbb843633db04842403adba1dd361c7ee02245c223e64a8f39d36078"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[HHsuite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "994ae5d71144d172ad8cbb6a56c94ce93f0b57ab"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "4d942f9dd6b4aefe7c035b3f3d884c08bab91076e6ec3cfb06d177828179e84c"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[HHsuite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "736ee6672c5808fb54f8d8dd37ee3d48c57794c6"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "7ccd6202531a903df3da07bc5496ad87da8a4c10880bbeaa1a8ce8aa61f10cd7"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[HHsuite]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad99ed19255ecac83f6efc6bca537ab339bc5e68"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "e054f4b3ff55abded44fc9cc00f1601f6fc2f0ba87a6f29d6893e3b4868cb6c9"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[HHsuite]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8671e7bd49923db530b28eafd13cd9bc8c6ff24"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "e2aab1a2b29ffde4e6fc517868932a987f3de2ff0d7dc1860e80347fae119e8e"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[HHsuite]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30e73e49749c7a8429fce85e831cda1a79f9b86c"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "7a35f085af429ab424a2dc2a85337cf38bf34d995316899daf1a99e63bcad9f1"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[HHsuite]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "012d85c314e52db9c2690743c790ade8dc35b585"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "e1ee1bad2ab45069a8eb41d3f28bdc3d6199614ce5e9c1e9b94f9a40173ed255"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.i686-linux-musl-cxx03.tar.gz"
+[[HHsuite]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "675bcd18080b06b07b0c51072b2c85ce34f3ac6f"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "bdc323907c7125b4b9ff32504d7af7403d5f49c48d3e2d2a9704769b217975d3"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.i686-linux-musl-cxx11.tar.gz"
+[[HHsuite]]
+arch = "x86_64"
+git-tree-sha1 = "1d0f53ef4720515ebd8d9627d8b5e9b47033e538"
+os = "macos"
+
+    [[HHsuite.download]]
+    sha256 = "44fc148b30ceaf3ab23b42986891a425ea28123b70bcba990f4baa3e85e893cc"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.x86_64-apple-darwin.tar.gz"
+[[HHsuite]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "baaf4cb7331e9cae05c9ee500bb32101517dc9cf"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "bad893f3fa818fdaea54fc503a89e3fb73b738cf469182db73092355d87dcbed"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[HHsuite]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "114b2b3477962d66660e5cc62e50ce830a6d3b7e"
+libc = "glibc"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "e7a6b6e02eec16d3f183a350a78a98ee1ef50fc20d6baef2aa6907f3d32bc693"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[HHsuite]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "04cec245500265ff86b141818effd2bf5552eac2"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "b40ada80bd5b092fbe4c5d3d81c1a438da94e06585bbb53471f7e73aed00493f"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[HHsuite]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cab6e04449379bdab04f5496015a25282e0b392b"
+libc = "musl"
+os = "linux"
+
+    [[HHsuite.download]]
+    sha256 = "7cae0f4b5fd80fb9d5684b631f5d2e2536ddb6dbb742d0ba55f551a0056da386"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[HHsuite]]
+arch = "x86_64"
+git-tree-sha1 = "36e4b2b0405e711a648bacd46e37b0141ea1b35b"
+os = "freebsd"
+
+    [[HHsuite.download]]
+    sha256 = "9b93cd8f79aa3bc0a5fedc6b615e2a796e0fca3c6af8ef327369d96afb6c1918"
+    url = "https://github.com/JuliaBinaryWrappers/HHsuite_jll.jl/releases/download/HHsuite-v3.3.0+0/HHsuite.v3.3.0.x86_64-unknown-freebsd.tar.gz"
